@@ -7,3 +7,4 @@ unzip instagram_profiles.zip
 awk 'length($8)>100 {print $4}' instagram_posts.csv | head -n 10 > temp.csv
 
 grep -f temp.csv instagram_profiles.csv | awk '{print $4}'
+rm temp.csv
