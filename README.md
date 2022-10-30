@@ -5,7 +5,7 @@ In this repository you will find the following files:
 In the actual RQ* file you can find the code, while in the execution.txt an execution of the code. Occasionally there will be a .png with a graph inside
 - AQ1.ipynb, containing the solution of AQ1
 - AQ2.ipynb, containing the solution of AQ2
-- CommandLine.sh, containing the Command line question
+- CommandLine.sh, containing the solution of the command line question
 
 Just in case, if you can't see some plots from the ipynb files:
 - https://nbviewer.org/github/DavGev/ADM_HW2/blob/master/RQ.ipynb
