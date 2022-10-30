@@ -1,0 +1,2 @@
+Number of posts with only photos:  41534486 
+Number of posts with both photos and videos:  40943

@@ -1,0 +1,2 @@
+post_id      numbr_likes  number_comments
+Bx2sPAjHviO      38871.0         488953.0

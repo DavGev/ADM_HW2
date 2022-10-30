@@ -1,0 +1,2 @@
+Percentage of business accounts:  75.17637678673378 
+Percentage of non-business accounts: 24.823623213266217

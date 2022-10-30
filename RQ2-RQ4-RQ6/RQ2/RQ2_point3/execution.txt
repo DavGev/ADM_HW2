@@ -1,0 +1,16 @@
+            post_id  number_comments
+0       BXdjjUlgcgq              0.0
+2       BRgkjcXFp3Q              0.0
+3       BKTKeNhjEA7              0.0
+4        8-NQrvoYLX              0.0
+11      Bx-ptmpinBs              0.0
+...             ...              ...
+228262  BpeRbppFQ2l              0.0
+228263  Bdx3o7WDypu              0.0
+228264  BcpWMWGBfxh              0.0
+228265  Ba6LZWwlCl8              0.0
+228266  BPN0kM1hYUw              0.0
+
+
+           post_id  number_comments
+65353  Bx2sPAjHviO         488953.0
